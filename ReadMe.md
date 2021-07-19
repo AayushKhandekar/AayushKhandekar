@@ -35,7 +35,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhandekar&" alt="aayushkhandekar" widht="1000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhandekar&" alt="aayushkhandekar" widht="5000" /></p>
 
 <div style="display: grid; grid-template-columns: auto auto auto;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkhandekar&show_icons=true&locale=en&layout=compact" alt="aayushkhandekar"/></p>
