@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I'm Aayush Khandekar 👋</h1>
+<h1 align="left">Hi, I'm Aayush Khandekar 👋</h1>
 
-<h3 align="center">I'm passionate about Finance and Web Development</h3>
+<p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I like to develop scalable applications with the technologies that I have learnt. Along with Computer Programming, Finance and Management are two sectors that fascinate me. </p> 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 👨‍💻  All of my projects are available [here](https://github.com/AayushKhandekar?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AayushKhandekar](https://github.com/AayushKhandekar)
-
-- 📫 How to reach me **akhandekar582@gmail.com**
+- 📫 Reach me at  **akhandekar582@gmail.com** 
 
 <h3 align="left">Connect with me:</h3><br />
 
