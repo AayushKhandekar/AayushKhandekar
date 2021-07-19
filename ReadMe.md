@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhandekar&" alt="aayushkhandekar" widht="5000" /></p>
 
-<div style="display: grid; grid-template-columns: auto auto auto;">
+<div display: grid grid-template-columns: auto auto auto>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkhandekar&show_icons=true&locale=en&layout=compact" alt="aayushkhandekar"/></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aayushkhandekar&show_icons=true&locale=en" alt="aayushkhandekar" /></p>
