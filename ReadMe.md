@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Aayush Khandekar 👋</h1> <br/>
+<h1 align="left">Hi, I'm Aayush Khandekar 👋</h1> 
 
 <p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I like to develop scalable applications with the technologies that I have learnt. Along with Computer Programming, Finance and Management are two sectors that fascinate me. </p> 
 
