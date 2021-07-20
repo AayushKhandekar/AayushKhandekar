@@ -1,12 +1,12 @@
-<h1 align="left">Hi, I'm Aayush Khandekar 👋</h1>
+<h1 align="left">Hi, I'm Aayush Khandekar 👋</h1> <br/>
 
 <p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I like to develop scalable applications with the technologies that I have learnt. Along with Computer Programming, Finance and Management are two sectors that fascinate me. </p> 
 
 - 👨‍💻  All of my projects are available [here](https://github.com/AayushKhandekar?tab=repositories)
 
-- 📫 Reach me at  **akhandekar582@gmail.com** 
+- 📫 Reach me at  **akhandekar582@gmail.com** <br/>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">Languages and Tools :</h3><br/>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,14 +31,18 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 
 <br />
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhandekar&" alt="aayushkhandekar" width="5000" /></p>
+<div align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhandekar&theme=black-ice&hide_border=true" width="800" margin-bottom="20">
+  </a><br/>
+  <a href="https://github.com/aayushkhandekar/github-readme-stats" style="margin-top:100px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkhandekar&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
+  </a>
+  <a href="https://github.com/aayushkhandekar/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushkhandekar&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
+  </a>
+</div>
 
-<table style="border-collapse:collapse">
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushkhandekar&show_icons=true&locale=en&layout=compact" alt="aayushkhandekar" width="500" /><td/>
-    &nbsp;
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushkhandekar&show_icons=true&locale=en" alt="aayushkhandekar" width="600"  /><td/>
-   <tr>
-<table/>
 
