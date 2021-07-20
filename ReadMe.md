@@ -9,8 +9,8 @@
 <h3 align="left">Social :</h3>
 
 <p align="left">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img alt="LinkedIn" src="https://www.linkedin.com/in/aayush-khandekar-baa164193/"/>
+<img alt="HackerRank" src="https://www.hackerrank.com/aayushkhandekar?hr_r=1"/>
 </p> 
 
 <h3 align="left">Languages and Tools :</h3>
