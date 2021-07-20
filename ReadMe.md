@@ -6,13 +6,6 @@
 
 - 📫 Reach me at  **akhandekar582@gmail.com** 
 
-<h3 align="left">Social :</h3>
-
-<p align="left">
-<img alt="LinkedIn" src="https://www.linkedin.com/in/aayush-khandekar-baa164193/"/>
-<img alt="HackerRank" src="https://www.hackerrank.com/aayushkhandekar?hr_r=1"/>
-</p> 
-
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
