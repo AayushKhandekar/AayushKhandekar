@@ -1,6 +1,8 @@
 <h1 align="left">Hi, I'm Aayush Khandekar 👋</h1> 
 
-<p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I like to develop scalable applications with the technologies that I have learnt. Along with Computer Programming, Finance and Management are two sectors that fascinate me. To get to know more about me, check out my [website](https://aayushkhandekar.netlify.app). </p> 
+<p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I like to develop scalable applications with the technologies that I have learnt. Along with Computer Programming, Finance and Management are two sectors that fascinate me. </p> 
+
+To get to know me, check out my [website](https://aayushkhandekar.netlify.app/). I update it as I get time every once in a while. 
 
 - 👨‍💻  All of my projects are available [here](https://github.com/AayushKhandekar?tab=repositories)
 
