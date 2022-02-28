@@ -34,10 +34,10 @@ To get to know me, check out my [website](https://aayushkhandekar.netlify.app/).
 
 <br />
 <br />
-
 <div align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhandekar&theme=black-ice&hide_border=true" width="800" margin-bottom="20">
+  <h4>Profile Counter</h4>
+  <img src="https://profile-counter.glitch.me/AayushKhandekar/count.svg"/><br><br>
+  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhandekar&theme=black-ice&hide_border=true" width="800" margin-bottom="20">
   </a><br/>
   <a href="https://github.com/aayushkhandekar/github-readme-stats" style="margin-top:100px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkhandekar&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
